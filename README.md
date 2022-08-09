@@ -1,8 +1,8 @@
 # SpringBoot-WebService
 
 İlk Web Projem. 
-Backend tarafı için Spring Boot
-Frontend tarafı için React.Js
+Backend tarafı için Spring Boot, 
+Frontend tarafı için React.Js, 
 SQL tarafı için MySQL veritabanı kullanıyorum
 
 İlk commit:
